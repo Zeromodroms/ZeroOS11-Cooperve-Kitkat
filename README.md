@@ -68,9 +68,9 @@ http://sh.st/vuoFP
 
 6 Ir al apartado de mount and storage y seleccionar format/system
 
-7 Regresar al menu principal y flashar la rom ZeroOs11.zip
+7 Regresar al menu principal y flashar la rom ZeroOs11.zip (Install zip from zdcard o Chooze zip from sdcard)
 
-8 al finalizar precinar reboot system now
+8 al finalizar seleccionar reboot system now
 
 9 espere a que inicie la rom
 
