@@ -4,6 +4,11 @@ ZeroOS11-Cooperve esta basado en cm11 proximamente se basara en cm9 para traerle
 zero team autor de este git
 archivo registrado por copirigth
 
+###Link de la rom 
+http://sh.st/vuoFP
+
+###Link de video de instalacion (audio español latinoamericano)
+
 ##Integrantes del zeroTeam 
 
 + Kakku
