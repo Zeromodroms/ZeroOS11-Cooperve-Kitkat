@@ -8,6 +8,7 @@ archivo registrado por copirigth
 http://sh.st/vuoFP
 
 ###Link de video de instalacion (audio español latinoamericano)
+http://youtu.be/vbP_S3DvSWw
 
 ##Integrantes del zeroTeam 
 
@@ -15,7 +16,7 @@ http://sh.st/vuoFP
 + killingame
 + ShuneyderXD
 + Tony
-+ Kybyro
++ Kbyro
 + By:Yorlan
 + Mart´z
 + Rodrigo
@@ -74,7 +75,7 @@ http://sh.st/vuoFP
 
 9 espere a que inicie la rom
 
-10 si usted usa el movil para tomar videos baje el apk videos.apk que estara en la descripcion del video de instalacion
+10 si usted usa el movil para tomar videos baje el apk videos.apk que estara en la descripcion del video de instalacion de la rom zero shadow final cm11 se recomienda ver el video para configurar el apk
 
 11 al iniciar el systema ponga estos ajustes para mejor rendimiento
 
