@@ -92,3 +92,11 @@ http://youtu.be/vbP_S3DvSWw
 + En la aplicacion S2e solo seleccionar el apartado enlazar dalvick cache
 
 + Desactivar en el dialer busqueda de personas lugares y contactos tambien la lista negra ademas en tipo de llamada seleccionar clasica
+
+##Ayudanos con tu donacion
+
+No es obligatorio pero quien nos quiera apoyar gracias
+
+PAYPAL
+
+ligthope@hotmail.com
