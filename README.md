@@ -19,7 +19,6 @@ http://youtu.be/vbP_S3DvSWw
 + Kbyro
 + By:Yorlan
 + Mart´z
-+ Rodrigo
 + Zero
 
 
