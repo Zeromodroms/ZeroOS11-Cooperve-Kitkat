@@ -28,8 +28,6 @@ http://youtu.be/vbP_S3DvSWw
 + Procesamiento de audio en whatssap (Problema de la app)
 + Reproduccion de video en el navegador (solo en la app de navegador (web)
 + Google play services no compatibles (Problema de la app)
-+ Bootanimation se pega y se detiene el launcher (solo al prender el movil no afecta en nada)
-
 
 
 ##Cambios
@@ -48,12 +46,13 @@ http://youtu.be/vbP_S3DvSWw
 + Enciende la pantalla al recibir llamadas
 + Toma el 3g 
 + Compatible con mas apps 4.0x
++ Fix al error con boot animation y el launcher al iniciar la rom
 + Y muchas cosas mas
 
 
 ##Instalacion
 
-###Recomendado estar en rom stock ya previamente con permisos root
+###Recomendado Para los que tienen alguna otra Cyanogenmod o CustomRom estar en rom stock ya previamente con permisos root
 ###Si estas ya en cm11 saltate hasta el paso 5
 
 1 Iniciar odin y flashear el archivo boot.tar y el archivo modem 3g
@@ -68,7 +67,7 @@ http://youtu.be/vbP_S3DvSWw
 
 6 Ir al apartado de mount and storage y seleccionar format/system
 
-7 Regresar al menu principal y flashar la rom ZeroOs11.zip (Install zip from zdcard o Chooze zip from sdcard)
+7 Regresar al menu principal y flashar la rom ZeroOs11.zip (Install zip from sdcard o Chooze zip from sdcard)
 
 8 al finalizar seleccionar reboot system now
 
