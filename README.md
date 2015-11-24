@@ -98,7 +98,6 @@ http://youtu.be/vbP_S3DvSWw
 
 ##10 si usted usa el movil para tomar videos baje el apk videos.apk que estara en la descripcion del video de instalacion de la rom zero shadow final cm11 se recomienda ver el video para configurar el apk
 
-11 al iniciar el systema ponga estos ajustes para mejor rendimiento
 
 ##Ayudanos con tu donacion
 
