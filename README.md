@@ -1,11 +1,33 @@
-# ZeroOS11-cooperve
+# ZeroOS11™ Cooperve
 
-ZeroOS11-Cooperve esta basado en cm11 proximamente se basara en cm9 para traerles la cm9 perfecta saludos
+ZeroOS11™ Cooperve esta basado en cm11 proximamente se basara en cm9 para traerles la cm9 perfecta saludos
 zero team autor de este git
 archivo registrado por copirigth
 
+## Recomendaciones para mejor uso y rendimiento de ZeroOS11™
+
+
++ Flashear el archivo pureperfomance.zip (Para flashear este zip deben montar unicamente solo system y data)
+
++ Si ya has instalado muchas rooms es necesario hacer un Format system data y cahe para hacer una instalacion limpia
+
++ En rendimiento cambiar el procesador por PERFOMANCE y seleccionar el apartado establecer al iniciar
+
++ En la seccion gestion de memoria seleccionar todas las opciones exepto disable ZRam (SI seleccionas Higth priority Swap asegurate tener una swap minima de 1gb)
+
++ No modificar el systema 
+
++ En la aplicacion S2e solo seleccionar el apartado enlazar dalvick cache
+
++ Desactivar en el dialer busqueda de personas lugares y contactos tambien la lista negra ademas en tipo de llamada seleccionar clasica
+
++ En la app RootBoster Seleccionar el perfil Velocidad y aplicarlo no se asuten si la partalla se cambia a negro con letrasde fondo es normal al finalizar pedira tocar la pantalla para continuar y pedira reinicio precionar si y el movil reiniciara solo 
+
+
 ###Link de la rom 
 http://sh.st/vuoFP
+
+http://sh.st/neAcS  ROM Actualizada ZeroOS11-24/nov/2015
 
 ###Link de video de instalacion (audio español latinoamericano)
 http://youtu.be/vbP_S3DvSWw
@@ -28,7 +50,7 @@ http://youtu.be/vbP_S3DvSWw
 + Procesamiento de audio en whatssap (Problema de la app)
 + Reproduccion de video en el navegador (solo en la app de navegador (web)
 + Google play services no compatibles (Problema de la app)
-
++ Lag en HQ
 
 ##Cambios
 
@@ -39,7 +61,7 @@ http://youtu.be/vbP_S3DvSWw
 + Walpapers oficiales del Team Zero
 + Lag casi eliminado (no hay mucho lag esta estable y gluida la rom solo lo hay cuando usan apps que ocuoan mucha ram)
 + App de youtube incluida
-+ Launcher galaxy que da mejor nitidez a la pantalla de nuestro ACE
++ Launcher Lolipop 
 + Driver omx alfin fixeado
 + Camara con flash
 + Linterna funcional
@@ -47,6 +69,7 @@ http://youtu.be/vbP_S3DvSWw
 + Toma el 3g 
 + Compatible con mas apps 4.0x
 + Fix al error con boot animation y el launcher al iniciar la rom
++ Personalizacion a fondo
 + Y muchas cosas mas
 
 
@@ -67,29 +90,15 @@ http://youtu.be/vbP_S3DvSWw
 
 6 Ir al apartado de mount and storage y seleccionar format/system
 
-7 Regresar al menu principal y flashar la rom ZeroOs11.zip (Install zip from sdcard o Chooze zip from sdcard)
+7 Regresar al menu principal y flashar la rom Signed_ZeroOs11-cooperve-FINAL.zip (Install zip from sdcard o Chooze zip from sdcard)
 
 8 al finalizar seleccionar reboot system now
 
 9 espere a que inicie la rom
 
-10 si usted usa el movil para tomar videos baje el apk videos.apk que estara en la descripcion del video de instalacion de la rom zero shadow final cm11 se recomienda ver el video para configurar el apk
+##10 si usted usa el movil para tomar videos baje el apk videos.apk que estara en la descripcion del video de instalacion de la rom zero shadow final cm11 se recomienda ver el video para configurar el apk
 
 11 al iniciar el systema ponga estos ajustes para mejor rendimiento
-
-## Recomendaciones para mejor uso y rendimiento de ZeroOS11
-
-+ Activar las opciones de desarrollador y la duracion de animacion reducirla a 0.01x
-
-+ En rendimiento cambiar el procesador por PERFOMANCE y seleccionar el apartado establecer al iniciar
-
-+ En la seccion gestion de memoria seleccionar todas las opciones exepto disable ZRam (SI seleccionas Higth priority Swap asegurate tener una swap minima de 1gb)
-
-+ No modificar el systema 
-
-+ En la aplicacion S2e solo seleccionar el apartado enlazar dalvick cache
-
-+ Desactivar en el dialer busqueda de personas lugares y contactos tambien la lista negra ademas en tipo de llamada seleccionar clasica
 
 ##Ayudanos con tu donacion
 
