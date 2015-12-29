@@ -35,7 +35,6 @@ http://youtu.be/vbP_S3DvSWw
 ##Integrantes del zeroTeam 
 
 + Kakku
-+ killingame
 + ShuneyderXD
 + Tony
 + Kbyro
